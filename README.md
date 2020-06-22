@@ -6,6 +6,6 @@ Bom, como o uso do banco de dados não funcionou completamente eu optei por util
 
 Os dados são o seguinte:
 
-Login: alan123
-Senha: alan123
+Login: alan123, 
+Senha: alan123,
 E-mail: alan123@hotmail.com
