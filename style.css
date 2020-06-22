@@ -1,0 +1,127 @@
+#header{
+    border-width: 100px;
+    border: 30px solid rgb(64, 66, 64);
+    padding: -30px;
+    color: white;
+    background-color: rgb(64, 66, 64);
+    font-size: large;
+    position: center;
+}
+body{
+    background-color: rgb(40, 41, 40);
+    margin: auto;
+}
+strong{
+    font-size: 30px;
+}
+link{
+    color: white;
+}
+.text{
+    border: solid grey;
+    margin: auto;
+    padding: 350px;
+    border-width: 0px;
+    background-image: url(wallpaper.jpg);
+    position: cover;
+}
+.userchat{
+    border: solid grey;
+    margin: auto;
+    padding: fixed;
+    border-width: 0px;
+    background-image: url(wallpaper.jpg);
+    position: cover;
+}
+.apresentação{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    position: center;
+    
+}
+input{
+    position: right;
+}
+#perfil{
+    border: none;
+    padding: auto;
+    border-width: 0px;
+    margin: auto;
+    text-align: start;
+    color: white;
+}
+#another{
+    text-align: center;
+    image-resolution: auto;
+    padding-left: 200px;
+    padding-right: 200px;
+    color: white;
+    
+}
+.speak{
+    border: solid red;
+    border-width: 1px;
+    font-size: 20px;
+    text-align: middle;
+}
+#chat{
+    text-align: end,left;
+    width: 500px;
+    border: 2px solid red;
+    padding: 50px;
+    margin: 1px;
+}
+#box{
+    padding:100px;
+    background-image: url(wallpaper.jpg);
+}
+#profile{
+    border: solid red;
+    border-width: 1px;
+    text-align: center;
+    image-resolution: auto;
+    color: white;
+    margin-left: 300px;
+    margin-right: 300px;  
+}
+#banner{
+    border: solid red;
+    margin-top: none;
+}
+#userdata{
+    text-align: left;
+}
+
+#password{
+    margin-right: 15px;
+}
+#password1{
+    margin-left: 43px;
+}
+#password2{
+    margin-left: 16px;
+}
+#usercreate{
+    margin-right: 120px;
+}
+#email1{
+    margin-left: 30px;
+}
+#email{
+    margin-left: 30px;
+}
+img{
+    height: 300px;
+}
+button:hover{
+    color: red;
+}
+strong:hover{
+    color: red;
+}
+
+
+
+
+
